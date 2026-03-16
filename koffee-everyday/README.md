@@ -1,16 +1,35 @@
-# React + Vite
+# ☕ KoffeeEveryday
+> A high-end, interactive coffee customization web application built for local artisanal shops.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## 🌟 Live Demo
+[Paste your Vercel or GitHub Pages link here!]
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 🎨 Project Overview
+KoffeeEveryday is designed to bridge the gap between local coffee roasting traditions (specifically rooted in the flavors of Odisha) and a modern digital ordering experience. 
 
-## React Compiler
+### Key Features:
+* **Dynamic Customizer:** Real-time state management for coffee brand, temperature, and size.
+* **Brand Assurance:** Integrated social proof logic to build trust with new customers.
+* **Premium UI:** Utilizes Glassmorphism, blurred background parallax, and a dark-mode aesthetic for a luxury feel.
+* **Mobile First:** Fully responsive design that works perfectly on phones.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 🛠️ Technical Stack
+* **Frontend:** React.js (Hooks for State Management)
+* **Styling:** Tailwind CSS
+* **Icons:** Lucide-React
+* **Animations:** Framer Motion / Tailwind Transitions
 
-## Expanding the ESLint configuration
+## 🚀 The Roadmap (Work in Progress)
+I am currently scaling this from a UI prototype to a full business solution.
+- [ ] **Smart Pricing:** Dynamic price calculation based on selected size/shots.
+- [ ] **Cart System:** Persistent storage for multiple orders.
+- [ ] **Stripe Integration:** For secure local and international payments.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 👤 Author
+**Kanha**
+*Web Developer & UI Designer*
+*Available for freelance opportunities.*
