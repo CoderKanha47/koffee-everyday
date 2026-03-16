@@ -1,0 +1,11 @@
+/* src/index.css */
+:root {
+  color-scheme: dark; /* Tells the browser to use dark scrollbars/inputs */
+}
+
+body {
+  margin: 0;
+  background-color: #121212; /* Deep charcoal/black */
+  color: #f5f5f5; /* Off-white for readability */
+  font-family: 'Inter', sans-serif;
+}
